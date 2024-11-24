@@ -13,7 +13,7 @@ All the essential resources and template code needed to understand and practice 
 
 1. [Books](/01.%20Resources/Books/)
     - [Data Structures - Reema Thareja](/01.%20Resources/Books/Data%20Structures%20-%20Reema%20Thareja.pdf)
-    - [competitiveCoding](https://github.com/mihirs16/Data-Structures-and-Algorithms-Python/blob/master/01.%20Resources/Books/competitiveCoding.pdf)
+    - [competitiveCoding](https://github.com/harishngt/Data-Structures-and-Algorithms-Python/blob/master/01.%20Resources/Books/competitiveCoding.pdf)
 2. [Big-O Cheat Sheet](/01.%20Resources/BigO-cheat-sheet.pdf)
 3. [DAA Syllabus](/01.%20Resources/DAA%20Syllabus.pdf)
 4. [Interview Cheat sheet](/01.%20Resources/Interview%20cheatsheet.pdf)
